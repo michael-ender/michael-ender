@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @michael-ender
 - 👀 I’m interested in:
-  - Getting a Data Science summer internship
-- 🌱 I’m currently learning:
-  - CODING IN OS
-  - DATA MINING
-  - SOFTWARE ENGINEERING
-  - RISC-V
+  - Doing well and having fun doing it
+  - Learning many new things
 - 📫 How to reach me:
   - EMAIL: mbsteets42@tntech.edu
   - PHONE: (731)571-1011
